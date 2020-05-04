@@ -1,0 +1,11 @@
+FREQUENCY COUNT
+education: 72
+Canada: 1147
+university: 1444
+dalhousie: 43
+expensive: 0
+good school or good schools : 0
+bad school or bad schools or poor school or poor schools: 0
+faculty: 8
+computer science: 3
+graduate: 232

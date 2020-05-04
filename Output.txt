@@ -1,0 +1,11 @@
+word count from tweets and article 
+education: 92
+Canada: 690
+university: 674
+dalhousie: 28
+expensive: 0
+good school or good schools : 0
+bad school or bad schools or poor school or poor schools: 0
+faculty: 10
+computer science: 7
+graduate: 9
