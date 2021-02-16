@@ -6,10 +6,10 @@ from tweepy.streaming import StreamListener
 import csv
 #Add your credentials here
 twitter_keys = {
-        'consumer_key':        'b5MkkWXggWRUNUfn4eZfiJnBg',
-        'consumer_secret':     'horwzpbaZtReYKctCSUu8Z4wsAOgrPMxuSAEIBlQOymjGn9gmx',
-        'access_token_key':    '1567591818-eMMQaa9kNFe2rilCh9kkGgKMZoF9CRXxmJFrRxf',
-        'access_token_secret': 'ftBrQfrkhk57dqdolctDWHsuc1bQmsVEBKCL4v9Y66flR'
+        'consumer_key':        '****',
+        'consumer_secret':     '****',
+        'access_token_key':    '****',
+        'access_token_secret': '****'
     }
 
 #Setup access to API
