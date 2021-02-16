@@ -2,7 +2,7 @@ import sys
 from pyspark import SparkContext, SparkConf 
 import re,string
 #Setting the spark context to run on master
-conf = SparkConf().setAppName('Word_Frequency_Count').setMaster('spark://ip-172-31-32-123.us-east-2.compute.internal:7077')
+conf = SparkConf().setAppName('Word_Frequency_Count').setMaster('spark://****')
 sc = SparkContext(conf=conf)
 tweet_file=sc.textFile("tweet_cleaned.txt")
 #Converting the tet file to lower and removing punctuations
