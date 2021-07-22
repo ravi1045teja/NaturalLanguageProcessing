@@ -3,7 +3,7 @@ import requests
 import csv
 
 # The headers remain the same for all the requests
-headers = {'Authorization': 'bc9437f6137c45b8979887ac8800ec54'}
+headers = {'Authorization': '***********'}
 
 everything_news_url = 'https://newsapi.org/v2/everything'
 
